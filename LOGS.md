@@ -2,7 +2,7 @@
 by: @froppii
 repository: https://github.com/Froppii/comet-eer
 
-Total hours: **7**
+Total hours: **13**
 
 ## Log
 ### Day 1: February 4th, 2025
